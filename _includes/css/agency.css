@@ -355,7 +355,14 @@ section h3.section-subheading {
 }
 
 section .savethedatepic {
+    background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/pic1.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     padding-bottom: 300px;
 }
 
