@@ -356,6 +356,7 @@ section h3.section-subheading {
 
 section .savethedatepic {
     background-image: url('{{ site.baseurl }}/img/pic1.jpg');
+    padding-bottom: 300px;
 }
 
 #portfolio .portfolio-item {
