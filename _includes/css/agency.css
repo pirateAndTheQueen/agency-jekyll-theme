@@ -379,6 +379,17 @@ section .torrepic {
     padding-bottom: 500px;
 }
 
+section .rockstars {
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/pic2.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size:  contain;
+    background-size:  contain;
+    -o-background-size:  contain;
+    padding-bottom: 500px;
+}
 
 #portfolio .portfolio-item {
     right: 0;
