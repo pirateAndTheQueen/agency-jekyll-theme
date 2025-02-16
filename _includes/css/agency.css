@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #fed136;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/pq_banner.jpeg');
     background-position: center center;
@@ -302,7 +302,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 700px;
+        padding-top: 950px;
         padding-bottom: 200px;
     }
 
