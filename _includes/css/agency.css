@@ -358,12 +358,12 @@ section .savethedatepic {
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/pic1.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: contain;
     -moz-background-size:  contain;
     background-size:  contain;
     -o-background-size:  contain;
-    padding-bottom: 300px;
+    padding-bottom: 500px;
 }
 
 #portfolio .portfolio-item {
