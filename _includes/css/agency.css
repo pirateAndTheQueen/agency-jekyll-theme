@@ -302,12 +302,12 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 950px;
+        padding-top: 300px;
         padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 450px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
