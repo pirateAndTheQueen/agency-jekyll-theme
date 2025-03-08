@@ -3,7 +3,7 @@ baseurl: /wedding/
 
 # Site settings
 title: The Pirate and the Queen get married!
-email: your-email@domain.com
+email: piratepeel+nicolettathequeen@gmail.com
 description: "The Pirate and the Queen are getting married! Find out all the details here."
 
 
@@ -32,11 +32,6 @@ description: "The Pirate and the Queen are getting married! Find out all the det
 #    url: http://bitbucket.org/jekyll
 #  - title: github
 #    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
